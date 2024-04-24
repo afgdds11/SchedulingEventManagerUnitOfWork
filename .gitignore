@@ -1,0 +1,8 @@
+﻿################################################################################
+# Este archivo .gitignore ha sido creado automáticamente por Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs
+/SchedulingEventManager/bin/Debug/net8.0
+/SchedulingEventManager/obj
+*.user
